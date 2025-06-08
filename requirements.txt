@@ -1,0 +1,7 @@
+pandas 
+matplotlib
+seaborn 
+scikit-learn
+
+# The openpyxl library is used in Python to read, write, and manipulate Excel files (specifically .xlsx files — the modern Excel format).
+openpyxl
